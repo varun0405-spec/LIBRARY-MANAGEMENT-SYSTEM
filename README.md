@@ -32,12 +32,4 @@ This project demonstrates the following Object-Oriented Programming concepts:
 - **Inheritance** – The project structure can be extended using inheritance when required.
 - **Polymorphism** – Object-oriented methods provide the foundation for flexible behavior.
 
-##  Project Structure
 
-The application is implemented in a single Java file for easy execution.
-
-```text
-LibraryManagementSystem/
-│
-├── LibraryManagementSystem.java
-└── README.md
